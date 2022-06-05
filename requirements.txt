@@ -7,4 +7,4 @@ sklearn
 gunicorn==19.9.0
 uvloop
 httptools
-Jinja2Templates
+Jinja2
